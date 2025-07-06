@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { fetchGenres, fetchPopularMovies } from "@/utils/api";
 import HomeClient from "@/components/HomeClient";
 
